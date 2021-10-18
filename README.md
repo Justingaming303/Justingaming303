@@ -12,10 +12,18 @@ I am a frontend developer but with a small drip of backend developing. I live in
 If you have a feedback on my work, feel free to contact me!
 
 # Contact Me
+
+*If you are interested in custom projects, contact me! 👀*
 - [✉justinwilliamtjahyono@gmail.com](mailto:justinwilliamtjahyono@gmail.com)
 - Discord: bangjo#9578
 - Instagram: [@tjahyonojustin](https://www.instagram.com/tjahyonojustin/)
 
+
+# Languages 
+
+- Javascript 
+- HTML
+- CSS
 
 # Projects
 
