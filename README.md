@@ -4,10 +4,10 @@ Welcome to my github, here you can see all my work I have completed, and in prog
 
 
 
-**All my works are free to use, but it would be appreciated if you could provide the github link somewhere on your website or discord server**
+*All my works are free to use, but it would be appreciated if you could give credits.*
 
 # About Me
-I am a frontend developer but with a small drip of backend developing. I live in Indonesia, specifically in Semarang. I code for a hobby and would love to expand!
+I am a frontend developer but with a small drip of backend developing. I live in Indonesia, specifically in Semarang. I code for a living and would love to expand my knowledge.
 
 If you have a feedback on my work, feel free to contact me!
 
