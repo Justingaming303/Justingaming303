@@ -15,7 +15,7 @@ If you have a feedback on my work, feel free to contact me!
 
 *If you are interested in custom projects, contact me! 👀*
 - [✉justinwilliamtjahyono@gmail.com](mailto:justinwilliamtjahyono@gmail.com)
-- Discord: bangjo#9578
+- Discord: justinn#9578
 - Instagram: [@tjahyonojustin](https://www.instagram.com/tjahyonojustin/)
 
 
