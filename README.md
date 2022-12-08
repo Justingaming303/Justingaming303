@@ -7,7 +7,7 @@ Welcome to my github, here you can see all my work I have completed, and in prog
 *All my works are free to use, but it would be appreciated if you could give credits.*
 
 # About Me
-I am a frontend developer but with a small drip of backend developing. I live in Indonesia, specifically in Semarang. I code for a living and would love to expand my knowledge.
+I am a backend developer who focus on node.js. I live in Indonesia, specifically in Semarang. I code for a living and would love to expand my knowledge.
 
 If you have a feedback on my work, feel free to contact me!
 
@@ -24,6 +24,7 @@ If you have a feedback on my work, feel free to contact me!
 - Javascript 
 - HTML
 - CSS
+- Python
 
 # Projects
 
