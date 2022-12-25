@@ -7,9 +7,9 @@ Welcome to my github, here you can see all my work I have completed, and in prog
 *All my works are free to use, but it would be appreciated if you could give credits.*
 
 # About Me
-I am a backend developer who focus on node.js. I live in Indonesia, specifically in Semarang. I code for a living and would love to expand my knowledge.
+I have been coding for almost 3 years and it has been my passion to do ever since. I like to help people with the power of what programming can do and its magic.
 
-If you have a feedback on my work, feel free to contact me!
+If you would like to provide feedback on my work, feel free to contact me!
 
 # Contact Me
 
