@@ -35,6 +35,10 @@ If you would like to provide feedback on my work, feel free to contact me!
 - [Discord Ticket Bot](https://github.com/Justingaming303/ticket-bot)
 - [Discord Music Bot](https://github.com/Justingaming303/music-bot)
 - [Discord Moderation Bot](https://github.com/Justingaming303/moderation-bot)
+- [Discord Giveaway Bot](https://github.com/Justingaming303/giveawaybot)
+- [Discord Trivia Bot](https://github.com/Justingaming303/Trivia-Bot)
+- [Discord Tic Tac Toe Bot](https://github.com/Justingaming303/tic-tac-toe-bot)
+
 
 # Support Me
 
